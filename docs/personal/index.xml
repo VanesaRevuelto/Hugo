@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MARKDOWN :: Vanesa&#39;s Site</title>
+    <link>https://vanesarevuelto.github.io/hugo/personal/index.html</link>
+    <description>Lenguaje MARKDAWN Este es un lenguaje con metadatos donde con caracteres especiales puedo conseguir etiquetas html para realizar texto con efecto</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2024 16:55:52 +0200</lastBuildDate>
+    <atom:link href="https://vanesarevuelto.github.io/hugo/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elementos sencillos</title>
+      <link>https://vanesarevuelto.github.io/hugo/personal/t%C3%ADtulos/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 16:55:52 +0200</pubDate>
+      <guid>https://vanesarevuelto.github.io/hugo/personal/t%C3%ADtulos/index.html</guid>
+      <description>TÍTULOS Por ejemplo, para conseguir título de nivel 1 o h1:&#xA;# titulo Que se verá:&#xA;NIVEL H1 Para conseguir título de nivel 2 o h2:&#xA;## titulo Que se verá:&#xA;NIVEL H2 Para conseguir título de nivel 3 o h3:&#xA;### titulo Que se verá:&#xA;NIVEL H3 Para conseguir título de nivel 4 o h4:&#xA;#### titulo Que se verá:&#xA;NIVEL H4 Para conseguir título de nivel 5 o h5:</description>
+    </item>
+    <item>
+      <title>Elementos especiales</title>
+      <link>https://vanesarevuelto.github.io/hugo/personal/tablas/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 16:55:52 +0200</pubDate>
+      <guid>https://vanesarevuelto.github.io/hugo/personal/tablas/index.html</guid>
+      <description>LINKS O ENLACES Para escribir el enlace en línea con el texto se escribe:&#xA;[Heraldo de Aragón](https://www.heraldo.es) Que se ve: Heraldo de Aragón&#xA;CÓDIGO Para escribir una línea de código se añade una ’ al principio y al final de la línea.&#xA;`Línea de código` Se verá:&#xA;Línea de código&#xA;IMÁGENES Insertar una imágen escribiendo:&#xA;![Conejo](/Vanesa/conejo.jpg) Se vería:</description>
+    </item>
+    <item>
+      <title>Viajes</title>
+      <link>https://vanesarevuelto.github.io/hugo/personal/viajes/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 16:55:32 +0200</pubDate>
+      <guid>https://vanesarevuelto.github.io/hugo/personal/viajes/index.html</guid>
+      <description>Para descargar ficheros de este directorio usamos el shortcode resources:&#xA;Attachments Se vería:&#xA;Attachments</description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>https://vanesarevuelto.github.io/hugo/personal/shortcodes/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 16:55:32 +0200</pubDate>
+      <guid>https://vanesarevuelto.github.io/hugo/personal/shortcodes/index.html</guid>
+      <description>Ahora veo mi shortcode.</description>
+    </item>
+  </channel>
+</rss>

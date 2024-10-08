@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://vanesarevuelto.github.io/hugo/personal/index.html</loc>
+    <lastmod>2024-10-03T16:54:40+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://vanesarevuelto.github.io/hugo/personal/t%C3%ADtulos/index.html</loc>
+    <lastmod>2024-10-03T16:55:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://vanesarevuelto.github.io/hugo/personal/tablas/index.html</loc>
+    <lastmod>2024-10-03T16:55:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://vanesarevuelto.github.io/hugo/personal/viajes/index.html</loc>
+    <lastmod>2024-10-03T16:55:32+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://vanesarevuelto.github.io/hugo/personal/shortcodes/index.html</loc>
+    <lastmod>2024-10-03T16:55:32+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://vanesarevuelto.github.io/hugo/index.html</loc>
+    <lastmod>2024-10-03T16:55:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://vanesarevuelto.github.io/hugo/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>https://vanesarevuelto.github.io/hugo/tags/index.html</loc>
+  </url>
+</urlset>

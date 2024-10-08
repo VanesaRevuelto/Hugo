@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vanesa&#39;s Site</title>
+    <link>https://vanesarevuelto.github.io/hugo/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2024 16:54:40 +0200</lastBuildDate>
+    <atom:link href="https://vanesarevuelto.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MARKDOWN</title>
+      <link>https://vanesarevuelto.github.io/hugo/personal/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 16:54:40 +0200</pubDate>
+      <guid>https://vanesarevuelto.github.io/hugo/personal/index.html</guid>
+      <description>Lenguaje MARKDAWN Este es un lenguaje con metadatos donde con caracteres especiales puedo conseguir etiquetas html para realizar texto con efecto</description>
+    </item>
+  </channel>
+</rss>
